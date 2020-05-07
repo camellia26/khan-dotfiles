@@ -217,6 +217,7 @@ clone_devtools() {
     clone_devtool git@github.com:Khan/libphutil
     clone_devtool git@github.com:Khan/arcanist
     clone_devtool git@github.com:Khan/git-workflow
+    clone_devtool git@github.com:Khan/our-lovely-cli
 }
 
 # khan-dotfiles is also a KA repository...
